@@ -1,0 +1,7 @@
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\obj\x86\Debug\GumTree_Scraper.Form1.resources
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\obj\x86\Debug\GumTree_Scraper.Properties.Resources.resources
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\obj\x86\Debug\GumTree_Scraper.csproj.GenerateResource.Cache
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\bin\Debug\GumTree_Scraper.exe
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\bin\Debug\GumTree_Scraper.pdb
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\obj\x86\Debug\GumTree_Scraper.exe
+c:\users\one\documents\visual studio 2010\Projects\GumTree_Scraper\GumTree_Scraper\obj\x86\Debug\GumTree_Scraper.pdb
